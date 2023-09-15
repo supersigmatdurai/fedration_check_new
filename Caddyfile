@@ -1,6 +1,6 @@
 
 
 
-singhis.in:8444 {
+singhis.in:8080 {
     reverse_proxy localhost:8000
 }
