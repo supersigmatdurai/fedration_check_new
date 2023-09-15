@@ -1,4 +1,6 @@
-
+www.singhis.in:9443 {
+    redir https://singhis.in{uri}
+}
 
 
 singhis.in:9443 {
