@@ -1,6 +1,3 @@
-www.singhis.in {
-    redir https://singhis.in{uri}
-}
 
 
 
